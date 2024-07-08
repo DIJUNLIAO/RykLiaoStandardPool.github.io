@@ -1,1 +1,1 @@
-# GUidance from Regulation Authorities
+# Guidance from Regulation Authorities
