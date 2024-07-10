@@ -2,18 +2,21 @@
 Here includes some useful standards and regulations related to medical device.
 
 ## HIGHLIGHTED
+Comming soon...
 
 ## GUIDANCE
 For guidance from regulation authorties/or orgnizations, please reference here:
 [Guidances](https://github.com/DIJUNLIAO/RykLiaoStandardPool.github.io/blob/main/Guidances/GuidanceGuide.md)
 
 ### HIGHLIGHTED GUIDANCE
+Comming soon...
 
 ## STANDARDS
 For standards from orgnizations, please reference here:
 [Standards](https://github.com/DIJUNLIAO/RykLiaoStandardPool.github.io/blob/main/Standards/Standards.md)
 
 ### HIGHLIGHTED STANDARDS
+Comming soon...
 
 ## REGULATIONS AND LAWS
 
@@ -21,3 +24,4 @@ For regulations and laws, please reference here:
 [Regulations and Laws](https://github.com/DIJUNLIAO/RykLiaoStandardPool.github.io/blob/main/Regulations%20and%20Laws/Regulation%26Law.md)
 
 ### HIGHLIGHTED REGULATIONS AND LAWS
+Comming soon...
