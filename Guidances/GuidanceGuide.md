@@ -9,4 +9,4 @@ For guidances list from FDA, please see here: [FDA Guidances](https://github.com
 ## Europe Union
 ## International Organization
 ### ISO
-For guidances list from ISO, please see here: [ISO GUidances](https://github.com/DIJUNLIAO/RykLiaoStandardPool.github.io/blob/main/Guidances/International%20Organization/InteOrgISOGuidance.md)
+For guidances list from ISO, please see here: [ISO Guidances](https://github.com/DIJUNLIAO/RykLiaoStandardPool.github.io/blob/main/Guidances/International%20Organization/InteOrgISOGuidance.md)
