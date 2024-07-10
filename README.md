@@ -10,6 +10,8 @@ For guidance from regulation authorties/or orgnizations, please reference here:
 ### HIGHLIGHTED GUIDANCE
 
 ## STANDARDS
+For standards from orgnizations, please reference here:
+[Standards](https://github.com/DIJUNLIAO/RykLiaoStandardPool.github.io/blob/main/Standards/Standards.md)
 
 ### HIGHLIGHTED STANDARDS
 
