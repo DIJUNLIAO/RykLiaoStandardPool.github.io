@@ -1,5 +1,5 @@
 # Standards and Regulations Pool
-Here include some useful standards and regulations related to medical device:
+Here include some useful standards and regulations related to medical device.
 
 ## HIGHTED
 
