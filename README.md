@@ -5,7 +5,7 @@ Here includes some useful standards and regulations related to medical device.
 
 ## GUIDANCE
 For guidance from regulation authorties/or orgnizations, please reference here:
-[Guidances from regulation authorities](https://github.com/DIJUNLIAO/RykLiaoStandardPool.github.io/blob/main/Guidances/GuidanceGuide.md)
+[Guidances](https://github.com/DIJUNLIAO/RykLiaoStandardPool.github.io/blob/main/Guidances/GuidanceGuide.md)
 
 ### HIGHLIGHTED GUIDANCE
 
