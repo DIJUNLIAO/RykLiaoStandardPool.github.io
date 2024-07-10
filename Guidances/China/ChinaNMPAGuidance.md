@@ -1,2 +1,4 @@
 # Guidances from China NMPA
-医疗器械软件注册审查指导原则 (Software registration and reviewing guidance for medical device): [NMPA Software Guidance]()
+医疗器械软件注册审查指导原则 (Software registration and reviewing guidance for medical device): [NMPA Software Guidance](https://github.com/DIJUNLIAO/RykLiaoStandardPool.github.io/blob/main/Guidances/China/%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E8%BD%AF%E4%BB%B6%E6%B3%A8%E5%86%8C%E5%AE%A1%E6%9F%A5%E6%8C%87%E5%AF%BC%E5%8E%9F%E5%88%992022.pdf)
+医疗器械网络安全注册审查指导原则 (Cybersecurity registration and reviewing guidance for medical device): [NMPA Cybersecurity Guidance](https://github.com/DIJUNLIAO/RykLiaoStandardPool.github.io/blob/main/Guidances/China/%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E8%BD%AF%E4%BB%B6%E6%B3%A8%E5%86%8C%E5%AE%A1%E6%9F%A5%E6%8C%87%E5%AF%BC%E5%8E%9F%E5%88%992022.pdf)
+医疗器械人工智能注册审查指导原则 (Artificial Intelligence registration and reviewing guidance for medical device): [NMPA Artifical Intelligence Guidance](https://github.com/DIJUNLIAO/RykLiaoStandardPool.github.io/blob/main/Guidances/China/%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E8%BD%AF%E4%BB%B6%E6%B3%A8%E5%86%8C%E5%AE%A1%E6%9F%A5%E6%8C%87%E5%AF%BC%E5%8E%9F%E5%88%992022.pdf)
