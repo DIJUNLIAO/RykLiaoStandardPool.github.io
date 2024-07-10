@@ -17,4 +17,7 @@ For standards from orgnizations, please reference here:
 
 ## REGULATIONS AND LAWS
 
+For regulations and laws, please reference here:
+[Regulations and Laws](https://github.com/DIJUNLIAO/RykLiaoStandardPool.github.io/blob/main/Regulations%20and%20Laws/Regulation%26Law.md)
+
 ### HIGHLIGHTED REGULATIONS AND LAWS
